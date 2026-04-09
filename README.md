@@ -6,5 +6,5 @@ This project addresses the performance degradation of traditional object detecti
 
 ## Key Implementations
 - Low-light image enhancement (adaptive brightness adjustment & denoising)
-- Fine-tuned YOLOv8 model on a custom low-light dataset
+- Fine-tuned YOLOv12 model on a custom low-light dataset
 - Model optimization for real-time inference speed
